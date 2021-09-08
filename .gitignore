@@ -1,0 +1,6 @@
+/src_cgi/*.o
+/fastdfs/storage/
+/fastdfs/client/
+/fastdfs/tracker/
+/logs/cgi/
+/logs/database/
